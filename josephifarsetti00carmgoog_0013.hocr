@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./josephifarsetti00carmgoog_0013.png"; bbox 0 0 2875 4523; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 680 1456 1986 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 680 1456 1986 1660">
+     <span class='ocr_line' id='line_1_1' title="bbox 680 1456 1986 1660; baseline -0.009 -60"><span class='ocrx_word' id='word_1_1' title='bbox 680 1514 745 1621; x_wconf 78' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 744 1511 870 1601; x_wconf 85' lang='lat' dir='ltr'><em>ani</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 901 1508 1327 1631; x_wconf 81' lang='lat' dir='ltr'><strong>Philophili</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1351 1456 1847 1660; x_wconf 50' lang='lat' dir='ltr'><strong>Sympbfiani</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1954 1483 1986 1588; x_wconf 62' lang='lat' dir='ltr'>J</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 441 1760 2126 2000">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 441 1707 2126 2000">
+     <span class='ocr_line' id='line_1_2' title="bbox 441 1760 2126 1879; baseline 0.015 -42"><span class='ocrx_word' id='word_1_6' title='bbox 441 1760 641 1840; x_wconf 86' lang='lat' dir='ltr'><em>Mole</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 659 1766 1087 1868; x_wconf 54' lang='lat' dir='ltr'><em>perexiguum</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1113 1760 1390 1859; x_wconf 57' lang='lat' dir='ltr'><em>Leston</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1420 1802 1503 1849; x_wconf 87' lang='lat' dir='ltr'><em>ne</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1509 1779 1745 1877; x_wconf 78' lang='lat' dir='ltr'><em>sperne</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1770 1781 2126 1879; x_wconf 61' lang='lat' dir='ltr'><em>Libellumg</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 609 1880 1904 2000; baseline 0.012 -41"><span class='ocrx_word' id='word_1_12' title='bbox 609 1880 694 1954; x_wconf 83' lang='lat' dir='ltr'><em>In</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 713 1881 889 1961; x_wconf 81' lang='lat' dir='ltr'><em>tenui</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 913 1881 1251 1985; x_wconf 81' lang='lat' dir='ltr'><em>ingenium</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1263 1887 1581 1989; x_wconf 81' lang='lat' dir='ltr'><em>promitur</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1602 1894 1904 2000; x_wconf 49' lang='lat' dir='ltr'><em>artificia</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
